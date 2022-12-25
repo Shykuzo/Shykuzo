@@ -1,6 +1,6 @@
 # Welcome !
 Any questions ? A request ?  
-Contact me via Discord `Shykuzo#7097` or via my e-mail address `contact@open-studio.be` !
+Contact me via Discord `Shykuzo#7097` or via my e-mail address `contact@evo-cloud.be` !
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=Shykuzo&show_icons=true&theme=cobalt)
 
